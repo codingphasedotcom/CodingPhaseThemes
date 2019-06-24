@@ -1,4 +1,6 @@
+
 # CodingPhaseDark Theme
+This will work for iTerm will be releasing versions for other terminals in the future
 
 ## Steps for iterm
 - download the file
