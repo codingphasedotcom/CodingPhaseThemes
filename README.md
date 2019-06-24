@@ -2,6 +2,8 @@
 # CodingPhaseDark Theme
 This will work for iTerm will be releasing versions for other terminals in the future
 
+![enter image description here](https://github.com/codingphasedotcom/codingphase-iterm-theme/blob/master/iterm-screen.png?raw=true)
+
 ## Steps for iterm
 - download the file
 - go to preferences on iterm
